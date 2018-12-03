@@ -70,5 +70,7 @@ Each output should be like:
 
 
 [TODO]
+
 2. Validate Scenes (S2/L8) geometries by reading scenes metadata
+
 3. Check Landsat orbit parameters to confirm Sentinel-2 could see it
